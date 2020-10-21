@@ -4,7 +4,8 @@
   "description": "This is for the weather report or forcast of the world.We will use one api for that.So let's go.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
   },
   "author": "dungenmaster31",
   "license": "ISC",
